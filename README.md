@@ -46,10 +46,11 @@
 ![contents](picture/picture15.png)
 ![contents](picture/picture16.png)
 ![contents](picture/picture17.png)
-![contents](picture/picture18.png)
+![contents](picture/pciture18.png)
 ![contents](picture/picture19.png)
 ![contents](picture/picture20.png)
 ![contents](picture/picture21.png)
+![contents](picture/picture22.png)
 
 ## 三、所用技术
 后端技术栈：
