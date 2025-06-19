@@ -29,6 +29,7 @@
 新闻管理(新闻列表、发布新闻)
 
 ## 二、效果展示
+### 用户端
 ![contents](picture/picture1.png)
 ![contents](picture/picture2.png)
 ![contents](picture/picture3.png)
@@ -44,9 +45,11 @@
 ![contents](picture/picture13.png)
 ![contents](picture/picture14.png)
 ![contents](picture/picture15.png)
+
+### 管理员端
 ![contents](picture/picture16.png)
 ![contents](picture/picture17.png)
-![contents](picture/pciture18.png)
+![contents](picture/picture18.png)
 ![contents](picture/picture19.png)
 ![contents](picture/picture20.png)
 ![contents](picture/picture21.png)
